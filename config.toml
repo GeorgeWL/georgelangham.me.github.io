@@ -1,4 +1,4 @@
-baseurl = "https://georgelangham.me/"
+baseurl = "http://georgelangham.me/"
 title = "George W Langham"
 publishDir = "docs"
 theme = "hugo-creative-portfolio-theme"
