@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on George W Langham</title>
+    <link>https://georgelangham.me/posts/</link>
+    <description>Recent content in Posts on George W Langham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 George W Langham</copyright>
+    <lastBuildDate>Tue, 16 May 2017 13:09:56 +0100</lastBuildDate>
+    
+	<atom:link href="https://georgelangham.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://georgelangham.me/posts/hello-world/</link>
+      <pubDate>Tue, 16 May 2017 13:09:56 +0100</pubDate>
+      
+      <guid>https://georgelangham.me/posts/hello-world/</guid>
+      <description> Testing of the posts is always a thing worth doing. Prose.io can do things for me.
+What can it do? H2 It can do more too,
+such as a H3 Bold Italic &amp;gt; quote
+-li -li 1. li 1. li
+and a link home and images </description>
+    </item>
+    
+  </channel>
+</rss>
