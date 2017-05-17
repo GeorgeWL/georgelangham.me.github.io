@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get in touch on George W Langham</title>
-    <link>https://georgelangham.me/contact/</link>
+    <link>http://georgelangham.me/contact/</link>
     <description>Recent content in Get in touch on George W Langham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 George W Langham</copyright>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
     
-	<atom:link href="https://georgelangham.me/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://georgelangham.me/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

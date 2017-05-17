@@ -2,100 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work2/</loc>
+    <loc>http://georgelangham.me/portfolio/work2/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work3/</loc>
+    <loc>http://georgelangham.me/portfolio/work3/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work4/</loc>
+    <loc>http://georgelangham.me/portfolio/work4/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work5/</loc>
+    <loc>http://georgelangham.me/portfolio/work5/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work6/</loc>
+    <loc>http://georgelangham.me/portfolio/work6/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work7/</loc>
+    <loc>http://georgelangham.me/portfolio/work7/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work8/</loc>
+    <loc>http://georgelangham.me/portfolio/work8/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work9/</loc>
+    <loc>http://georgelangham.me/portfolio/work9/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work10/</loc>
+    <loc>http://georgelangham.me/portfolio/work10/</loc>
     <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work11/</loc>
+    <loc>http://georgelangham.me/portfolio/work11/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/posts/hello-world/</loc>
+    <loc>http://georgelangham.me/posts/test/</loc>
+    <lastmod>2017-05-17T15:29:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://georgelangham.me/posts/hello-world/</loc>
     <lastmod>2017-05-16T13:09:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/contact/</loc>
+    <loc>http://georgelangham.me/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/about/</loc>
+    <loc>http://georgelangham.me/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/work1/</loc>
+    <loc>http://georgelangham.me/portfolio/work1/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/categories/</loc>
+    <loc>http://georgelangham.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/</loc>
+    <loc>http://georgelangham.me/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/portfolio/</loc>
+    <loc>http://georgelangham.me/portfolio/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/posts/</loc>
-    <lastmod>2017-05-16T13:09:56+01:00</lastmod>
+    <loc>http://georgelangham.me/posts/</loc>
+    <lastmod>2017-05-17T15:29:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://georgelangham.me/tags/</loc>
+    <loc>http://georgelangham.me/tags/</loc>
     <priority>0</priority>
   </url>
   
