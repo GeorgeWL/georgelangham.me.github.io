@@ -16,7 +16,7 @@ googleAnalytics = ""
   copyright = "&copy;2016 George W Langham"
   sidebarAbout = [
     "I am a Wed Developer and Mobile Developer.",
-    "Originally from Cheshire,UK. I'm currently based in Manchester,UK."
+    "Originally from Cheshire, UK. <br> I'm currently based in Manchester, UK."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -42,7 +42,11 @@ googleAnalytics = ""
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Blog"
+  url = "blog/"
+
+  [[params.navlinks]]
+  name = "Contact Me"
   url = "contact/"
 
   [params.social]
