@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on George W Langham</title>
+    <link>http://georgelangham.me/blog/</link>
+    <description>Recent content in Blogs on George W Langham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 George W Langham</copyright>
+    <lastBuildDate>Wed, 01 Feb 2017 15:50:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://georgelangham.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessible Tech Lecture</title>
+      <link>http://georgelangham.me/blog/accessible/</link>
+      <pubDate>Wed, 01 Feb 2017 15:50:21 +0100</pubDate>
+      
+      <guid>http://georgelangham.me/blog/accessible/</guid>
+      <description>Just attended on the Wednesday (01/02/17) a Great lecture on Accessible Mobile Technology hosted at Sheffield Hallam University.
+The Barnsley Assistive Technology Team is a nationally recognised specialised service that works with other professionals in local teams to provide electronic assistive technology. Vicky and her team went into such a great level of depth without getting overly bogged down in the details.
+I can wholeheartedly recommend that you book them in if you can.</description>
+    </item>
+    
+  </channel>
+</rss>

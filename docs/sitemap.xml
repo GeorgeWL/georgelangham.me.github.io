@@ -17,13 +17,8 @@
   </url>
   
   <url>
-    <loc>http://georgelangham.me/posts/test/</loc>
-    <lastmod>2017-05-17T15:29:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://georgelangham.me/posts/hello-world/</loc>
-    <lastmod>2017-05-16T13:09:56+01:00</lastmod>
+    <loc>http://georgelangham.me/blog/accessible/</loc>
+    <lastmod>2017-02-01T15:50:21+01:00</lastmod>
   </url>
   
   <url>
@@ -42,6 +37,12 @@
   </url>
   
   <url>
+    <loc>http://georgelangham.me/blog/</loc>
+    <lastmod>2017-02-01T15:50:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://georgelangham.me/categories/</loc>
     <priority>0</priority>
   </url>
@@ -55,12 +56,6 @@
   <url>
     <loc>http://georgelangham.me/portfolio/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://georgelangham.me/posts/</loc>
-    <lastmod>2017-05-17T15:29:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
