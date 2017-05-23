@@ -3,15 +3,21 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+I’m a **Developer** for **Web** and **Mobile** ; creating Websites, Web Applications, and Mobile Applications.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+For the last few years I’ve been working with prestigious companies and I’m currently working for [Murphy Thompson Moore LLP](https://mtmllp.co.uk), a Legal and General Services company, whilst finishing my [BSc Web Systems Design and Development](http://www.justcourses.com/Courses/Sheffield_Hallam_University/Web_Systems_Design/246899-0-0.html) degree at [Sheffield Hallam University](https://shu.ac.uk).
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+I’m currently based in [Salford](https://www.google.co.uk/maps/place/Salford+District/), a region of Greater Manchester in the United Kingdom.
 
-#### Education
+If you want to contact me, use my [Contact](/contact/) page or click on to my social media links and say hello.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+## Education
 
+### BSc Web Systems Design - Sheffield Hallam
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+
+### BTEC National Diploma Level 3 - Mid-Cheshire College
+Consectetur occaecat ad anim nulla exercitation consequat tempor irure officia enim sit adipisicing. Dolore dolor voluptate est labore officia aliqua est laborum laboris sunt non nulla aliqua laboris magna minim. Eu eu id labore cillum id cillum culpa
+
+### GCSEs A to C - Verdin High School
+Ut eu id nulla officia do deserunt ut nisi. Officia deserunt do qui aute Lorem quis adipisicing aliqua ad. Ullamco esse duis dolor sit esse reprehenderit magna cupidatat laboris sunt dolore ad magna fugiat ullamco esse. Reprehenderit reprehenderit elit irure velit ad et enim non magna nulla elit elit ullamco occaecat tempor. Eu occaecat proident mollit aliqua nostrud sunt dolor irure officia velit nostrud velit nostrud.
