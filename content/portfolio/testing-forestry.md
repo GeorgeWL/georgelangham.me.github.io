@@ -3,7 +3,7 @@ date = "2017-05-25T18:15:11Z"
 image = "/img/photogrid.jpg"
 showonlyimage = false
 title = "Testing-Forestry"
-type = "default"
+type = ""
 weight = 4
 
 +++
