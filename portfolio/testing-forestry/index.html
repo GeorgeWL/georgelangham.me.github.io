@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Testing-Forestry</title>
+<title>Georgelangham.me</title>
 <meta name="description" content="George W Langham&#39;s Portfolio">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -105,22 +105,52 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>Testing-Forestry</h1>
+         <h1>Georgelangham.me</h1>
          
 
-<h2 id="changing-deployment-method">Changing Deployment Method.</h2>
+<p>This site a Static Generated Site, made with <a href="https://gohugo.io">Hugo</a> and Automatically Deployed using <a href="https://Forestry.io">Forestry.io</a></p>
 
-<h3 id="will-this-break-everything-break-the-site">Will This Break everything?Break the site?</h3>
+<p>Hugo makes use of partial html files and layout files, that inject the text content from markdown files into defined spaces and then builds as a project.</p>
 
-<blockquote>Please Don't.</blockquote>
+<p>The simplest way to think of it is that every page is a template with a single empty space in the middle for Formatted Text to go into.</p>
 
-<p><code>Please Do</code></p>
+<p>And Hugo is the Glue which sticks that Text in place.</p>
+
+<p>The Current Deployment method is as such.</p>
+
+<h2 id="for-content-changes">For Content Changes</h2>
+
+<ol>
+<li>Login to the Forestry.io Headless CMS (headlesscms.org for defintion of what defines a headless CMS)</li>
+<li>Edit Markdown Files to Create New Text Posts using existing Templates</li>
+<li>Forestry builds these pages into HTML</li>
+<li>Forestry Publishes the contents of the <code>/public</code> folder in the <code>dev</code> branch of the Git onto the <code>master</code> branch</li>
+<li>All contents of the <code>master</code> branch are automatically served as Webpages by Github Pages, due to a setting turned on in the options.</li>
+</ol>
+
+<h2 id="major-template-changes">Major Template Changes</h2>
+
+<p>deployed via opening the <code>/Layouts</code> folder inside of the dev branch of the Git, using Github Desktop and then:</p>
+
+<ol>
+<li>editing the <code>/partials</code>, <code>/widgets</code>, <code>/shortcodes</code> or any of the named templates</li>
+<li>opening command prompt inside of the <code>/</code> folder</li>
+<li>running the command <code>hugo --theme [Theme-Name]</code> once</li>
+<li>syncing the changes back to the dev branch.</li>
+<li>publishing the contents of the <code>/public</code> folder onto the Master branch</li>
+</ol>
+
+<ul>
+<li>e.g. <code>about/single.html</code> for editing the single page template of about.</li>
+<li>e.g. <code>partials/sidebar.html</code> for editing just the sidebar.</li>
+<li>e.g. <code>portfolio/list</code> for editing the grouped page template of Portfolio.</li>
+</ul>
 
          <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'GeorgeWL';
     var disqus_identifier = 'http:\/\/georgelangham.me\/portfolio\/testing-forestry\/';
-    var disqus_title = 'Testing-Forestry';
+    var disqus_title = 'Georgelangham.me';
     var disqus_url = 'http:\/\/georgelangham.me\/portfolio\/testing-forestry\/';
 
     (function() {
