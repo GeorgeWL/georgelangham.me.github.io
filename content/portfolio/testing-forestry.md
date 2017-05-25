@@ -7,10 +7,10 @@ type = "default"
 weight = 4
 
 +++
-
-
 ## Changing Deployment Method.
 
 ### Will This Break everything?Break the site?
 
 <blockquote>Please Don't.</blockquote>
+
+`Please Do`
