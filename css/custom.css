@@ -1,4 +1,14 @@
 /* your styles go here */
+@media screen and (min-width: 992px){
+    .sidebar-content {
+        position: fixed;
+        width: inherit;
+        z-index: 0;
+    }
+}
+.content-column {
+    z-index: 9999; 
+}
 .content-column-content p, .content-column-content li {
     color: #777;
 }
