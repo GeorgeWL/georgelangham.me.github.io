@@ -5,7 +5,6 @@ categories = []
 date = "2015-08-03T13:39:46+02:00"
 description = ""
 images = [""]
-menu = ""
 tags = []
 title = "Hugo is for lovers"
 
