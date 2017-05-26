@@ -3,17 +3,15 @@ date = "2017-05-26T12:26:33+00:00"
 image = "/uploads/2017/05/26/Gwl.png"
 showonlyimage = false
 title = "Georgelangham.me"
-type = ""
 weight = 1
 
 +++
-
-
 This site is a Static Generated Site, made with [Hugo](https://gohugo.io) and Automatically Deployed from a [git repository](https://github.com/GeorgeWL/georgelangham.me.github.io) using [Forestry.io](https://Forestry.io)
 
-The simplest way to think of it is that every page is a template with a single empty space in the middle for Formatted Text to go into. And Hugo is the Glue which sticks that Text in place.
+The power of Hugo is that through the use of layout files, every  div can easily be created or edited through HTML/CSS/JavaScript and then Injected into place by the program.
+<!--more-->
 
-The power of Hugo is that through the use of layout files, every single div can easily be created or edited through HTML/CSS/JavaScript and then Injected into place by the program.
+The simplest way to think of it is that every page is a template with a single empty space in the middle for Formatted Text to go into. And Hugo is the Glue which sticks that Text in place.
 
 I'm currently using a heavily modified version of the the [Hugo Creative Portfolio Theme](https://github.com/kishaningithub/hugo-creative-portfolio-theme) by Github User Kishaningithub.
 
