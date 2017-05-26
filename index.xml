@@ -46,7 +46,7 @@
       <guid>http://georgelangham.me/portfolio/jquery-ui-project/</guid>
       <description>&lt;p&gt;As part of my University Course, after reading and researching the documentation of the JQuery-UI Mobile framework, a short project was set to create a single file site which uses JQuery-UI Mobile elements.&lt;/p&gt;
 
-&lt;p&gt;All of the pages of this site are run from the same file (index.html) with CSS, Images and JavaScript files called in when necessary. Rather than each page being a file, it is a &lt;code&gt;&amp;amp;lt;div&amp;amp;gt;&lt;/code&gt; with the &lt;code&gt;data-role&lt;/code&gt; of &lt;code&gt;page&lt;/code&gt;
+&lt;p&gt;All of the pages of this site are run from the same file (index.html) with CSS, Images and JavaScript files called in when necessary. Rather than each page being a file, it is a &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; with the &lt;code&gt;data-role&lt;/code&gt; of &lt;code&gt;page&lt;/code&gt;
 &lt;/p&gt;</description>
     </item>
     
