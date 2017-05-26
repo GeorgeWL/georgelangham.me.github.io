@@ -57,11 +57,6 @@
   </url>
   
   <url>
-    <loc>http://georgelangham.me/blog/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://georgelangham.me/blog/</loc>
     <lastmod>2017-05-23T17:01:27+01:00</lastmod>
     <priority>0</priority>
@@ -117,12 +112,6 @@
   <url>
     <loc>http://georgelangham.me/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://georgelangham.me/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
