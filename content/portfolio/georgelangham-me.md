@@ -6,8 +6,6 @@ title = "Georgelangham.me"
 weight = 1
 
 +++
-
-
 This site is a Static Generated Site, made with [Hugo](https://gohugo.io) and Automatically Deployed from a [git repository](https://github.com/GeorgeWL/georgelangham.me.github.io) using [Forestry.io](https://Forestry.io)
 
 The power of Hugo is that through the use of layout files, every  div can easily be created or edited through HTML/CSS/JavaScript and then Injected into place by the program.
