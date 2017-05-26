@@ -11,7 +11,7 @@ date_format = "January 2, 2006"
 description = "George W Langham's Portfolio"
 email = "hello@georgelangham.me"
 googlemapsapikey = ""
-sidebarabout = ["Web and Mobile Developer.", "Manchester, UK."]
+sidebarabout = ["Web and Mobile Developer."]
 style = "sea"
 [params.carousel]
 enable = false
