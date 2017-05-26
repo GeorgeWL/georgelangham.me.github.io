@@ -14,10 +14,46 @@ If you want to contact me, use my [Contact](/contact/) page or click on to my so
 ## Education
 
 ### BSc Web Systems Design - Sheffield Hallam
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+
+Currently awaiting results, **Predicted Grade: 2:1**
+
+This is one of the few specialist courses in the UK focused on Web Technologies. Key Areas of Study:
+
+*   HTML5, CSS3
+*   JavaScript, PHP and ASP web scripting
+*   user interface design
+*   programming
+*   web-based systems architecture
+*   web security
+*   creative and critical thinking.
+*   computer architecture
+*   design and development of database systems
+*   computer networking
+*   project management
+*   web frameworks including HTML5UP and Bootstrap
+*   journal and thesis writing
+*   information management (second year elective)
+*   mobile application development (final year elective)
+*   cloud databases and cloud computing (final year elective)
 
 ### BTEC National Diploma Level 3 - Mid-Cheshire College
-Consectetur occaecat ad anim nulla exercitation consequat tempor irure officia enim sit adipisicing. Dolore dolor voluptate est labore officia aliqua est laborum laboris sunt non nulla aliqua laboris magna minim. Eu eu id labore cillum id cillum culpa
+
+This course is a strong foundation to build onto with University education or Apprenticeships. Course included the following modules:
+
+*   Communication and Employability Skills for IT
+*   Computer Systems
+*   Information Systems
+*   Project Planning with IT
+*   Database Design
+*   Spreadsheet Modelling
+*   Customisation of Web Pages
+*   Software Design and Development
+*   Human Computer Interaction
+*   Object Oriented Programming
+*   Computer Networks
+*   Website Production
+*   Event Driven Programming
 
 ### GCSEs A to C - Verdin High School
+
 Ut eu id nulla officia do deserunt ut nisi. Officia deserunt do qui aute Lorem quis adipisicing aliqua ad. Ullamco esse duis dolor sit esse reprehenderit magna cupidatat laboris sunt dolore ad magna fugiat ullamco esse. Reprehenderit reprehenderit elit irure velit ad et enim non magna nulla elit elit ullamco occaecat tempor. Eu occaecat proident mollit aliqua nostrud sunt dolor irure officia velit nostrud velit nostrud.
