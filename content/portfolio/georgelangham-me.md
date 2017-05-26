@@ -1,6 +1,6 @@
 +++
 date = "2017-05-26T12:26:33Z"
-image = "/uploads/2017/05/26/Gwl.png"
+image = "/uploads/2017/05/26/107426_georgelanghamme_13_1920.jpg"
 showonlyimage = false
 title = "Georgelangham.me"
 weight = 1
