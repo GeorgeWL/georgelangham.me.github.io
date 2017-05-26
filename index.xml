@@ -33,17 +33,6 @@
     </item>
     
     <item>
-      <title>Georgelangham.me</title>
-      <link>http://georgelangham.me/portfolio/testing-forestry/</link>
-      <pubDate>Thu, 25 May 2017 18:15:11 +0000</pubDate>
-      
-      <guid>http://georgelangham.me/portfolio/testing-forestry/</guid>
-      <description>This site a Static Generated Site, made with Hugo and Automatically Deployed using Forestry.io
-Hugo makes use of partial html files and layout files, that inject the text content from markdown files into defined spaces and then builds as a project.
-The simplest way to think of it is that every page is a template with a single empty space in the middle for Formatted Text to go into.</description>
-    </item>
-    
-    <item>
       <title>Item without image</title>
       <link>http://georgelangham.me/portfolio/work4/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
