@@ -1,6 +1,11 @@
 +++
+author = "GeorgeWL"
+banner = "/uploads/2017/05/26/at-team-2.jpg"
 categories = ["test"]
 date = "2017-05-23T17:01:27+01:00"
+description = "Just attended on the Wednesday (01/02/17) a Great lecture on Accessible Mobile Technology hosted at Sheffield Hallam University."
+images = []
+menu = ""
 tags = ["test"]
 title = "Accesibility in Tech"
 
