@@ -89,6 +89,12 @@
 .box-image-text .content h3, .box-image-text .content h4 {
   text-transform: capitalize;
 }
-.box-image-text .content p{
+.box-image-text .content{
   max-height: 48vh;
 }
+.box-image-text.content h1, .h1, h2, .h2, h3, .h3, pre, .intro {
+    /* text-size-adjust: initial; */
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    border: 0;
