@@ -18,9 +18,10 @@
       <pubDate>Fri, 26 May 2017 12:26:33 +0000</pubDate>
       
       <guid>http://georgelangham.me/portfolio/georgelangham-me/</guid>
-      <description>This site is a Static Generated Site, made with Hugo and Automatically Deployed from a git repository using Forestry.io
-The simplest way to think of it is that every page is a template with a single empty space in the middle for Formatted Text to go into. And Hugo is the Glue which sticks that Text in place.
-The power of Hugo is that through the use of layout files, every single div can easily be created or edited through HTML/CSS/JavaScript and then Injected into place by the program.</description>
+      <description>&lt;p&gt;This site is a Static Generated Site, made with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; and Automatically Deployed from a &lt;a href=&#34;https://github.com/GeorgeWL/georgelangham.me.github.io&#34;&gt;git repository&lt;/a&gt; using &lt;a href=&#34;https://Forestry.io&#34;&gt;Forestry.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The power of Hugo is that through the use of layout files, every  div can easily be created or edited through HTML/CSS/JavaScript and then Injected into place by the program.
+&lt;/p&gt;</description>
     </item>
     
     <item>
