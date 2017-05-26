@@ -1,5 +1,5 @@
 +++
-date = "2016-03-01T13:37:00+00:00"
+date = "2016-03-01T13:37:00Z"
 image = "/uploads/2017/05/26/ClimbingPosterA1-1170x1651.jpg"
 showonlyimage = true
 title = "Climbing Poster"

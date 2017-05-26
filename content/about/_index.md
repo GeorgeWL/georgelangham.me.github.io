@@ -1,8 +1,8 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
 title = "About me"
-+++
 
++++
 I’m a **Developer** for **Web** and **Mobile** ; creating Websites, Web Applications, and Mobile Applications.
 
 For the last few years I’ve been working with prestigious companies and I’m currently working for [Murphy Thompson Moore LLP](https://mtmllp.co.uk), a Legal and General Services company, whilst finishing my [BSc Web Systems Design and Development](http://www.justcourses.com/Courses/Sheffield_Hallam_University/Web_Systems_Design/246899-0-0.html) degree at [Sheffield Hallam University](https://shu.ac.uk).

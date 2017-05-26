@@ -1,5 +1,5 @@
 +++
-date = "2015-11-07T10:37:00+00:00"
+date = "2015-11-07T10:37:00Z"
 image = "/uploads/2017/05/26/screenshot-homepages.shu.ac.uk-2017-05-26-13-00-07_iphone_white_side2.png"
 showonlyimage = true
 title = "JQuery-UI Project"

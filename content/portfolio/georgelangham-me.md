@@ -1,5 +1,5 @@
 +++
-date = "2017-05-26T12:26:33+00:00"
+date = "2017-05-26T12:26:33Z"
 image = "/uploads/2017/05/26/Gwl.png"
 showonlyimage = false
 title = "Georgelangham.me"

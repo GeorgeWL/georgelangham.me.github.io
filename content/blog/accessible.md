@@ -1,11 +1,10 @@
 +++
-date = "2017-05-23T17:01:27+01:00"
-title = "Accesibility in Tech"
-draft = false
 categories = ["test"]
+date = "2017-05-23T17:01:27+01:00"
 tags = ["test"]
-+++
+title = "Accesibility in Tech"
 
++++
 Just attended on the Wednesday (01/02/17) a Great lecture on Accessible Mobile Technology hosted at Sheffield Hallam University.
 
 <!--more-->
