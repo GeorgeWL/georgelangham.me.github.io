@@ -98,3 +98,9 @@
     padding: 0;
     margin: 0;
     border: 0;
+}
+p.read-more {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
