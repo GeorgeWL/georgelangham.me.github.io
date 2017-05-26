@@ -56,4 +56,4 @@ This course is a strong foundation to build onto with University education or Ap
 
 ### GCSEs A to C - Verdin High School
 
-Ut eu id nulla officia do deserunt ut nisi. Officia deserunt do qui aute Lorem quis adipisicing aliqua ad. Ullamco esse duis dolor sit esse reprehenderit magna cupidatat laboris sunt dolore ad magna fugiat ullamco esse. Reprehenderit reprehenderit elit irure velit ad et enim non magna nulla elit elit ullamco occaecat tempor. Eu occaecat proident mollit aliqua nostrud sunt dolor irure officia velit nostrud velit nostrud.
+All relevant GCSEs to A-C levels, proof of qualification on request.
