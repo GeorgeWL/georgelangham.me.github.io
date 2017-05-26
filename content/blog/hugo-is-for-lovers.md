@@ -1,8 +1,12 @@
 +++
-banner = "img/banners/banner-3.jpg"
-categories = ["pseudo"]
+author = ""
+banner = "/img/pic02.jpg"
+categories = []
 date = "2015-08-03T13:39:46+02:00"
-tags = ["hugo"]
+description = ""
+images = [""]
+menu = ""
+tags = []
 title = "Hugo is for lovers"
 
 +++
