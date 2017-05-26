@@ -5,7 +5,7 @@
       <img src="/img/avatar.png" class="img img-responsive" alt="logo">
     </div>
     {{ range .Site.Params.sidebarAbout }}
-      <p class="sidebar-p">{{ . | safeHTML }}</p>
+      <p class="sidebar-p text-center">{{ . | safeHTML }}</p>
     {{ end }}
     <ul class="sidebar-menu">
       {{ $url := .Site.BaseURL }}
