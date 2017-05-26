@@ -92,7 +92,7 @@
 .box-image-text .content{
   max-height: 48vh;
 }
-.box-image-text.content h1, .h1, h2, .h2, h3, .h3, pre, .intro {
+.blog h1, .blog.h1, .blog h2, .blog.h2, .blog h3, .blog.h3, .blog pre, .blog.intro {
     /* text-size-adjust: initial; */
     font-size: 16px;
     padding: 0;
