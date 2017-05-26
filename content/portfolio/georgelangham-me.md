@@ -43,8 +43,14 @@ deployed via opening the `/Layouts` folder inside of the dev branch of the repos
 
 1. publishing the contents of the `/public` folder onto the Master branch
 
-* e.g. `about/single.html` for editing the single page template of about.
+e.g. 
 
-* e.g. `partials/sidebar.html` for editing just the sidebar.
+`about/single.html` for editing the single page template of about.
 
-* e.g. `portfolio/list` for editing the grouped page template of Portfolio.
+e.g. 
+
+`partials/sidebar.html` for editing just the sidebar.
+
+e.g.
+
+`portfolio/list` for editing the grouped page template of Portfolio.
