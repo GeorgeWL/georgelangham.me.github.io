@@ -1,13 +1,11 @@
 +++
-date = "2017-05-27T16:44:21+00:00"
+date = "2017-05-27T16:44:21Z"
 image = "/uploads/2017/05/27/107555_homepagesshuacukb103_8_1600.jpg"
 showonlyimage = false
 title = "Data Dashboard for Visually Impaired"
 weight = 2
 
 +++
-
-
 In my Final Year of University, as my course is technical instead of a dissertation, the Final Year project is to develop a prototype web application using web technologies, with an accompanying report.
 
 I decided to create a Data Dashboard with additional features added to make it more accesible for Visually impaired users (*defined as having 10/20 acuity or less*)
