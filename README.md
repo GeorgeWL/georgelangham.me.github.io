@@ -1,13 +1,10 @@
 # Based on the Creative portfolio theme for hugo
 
 [![Join the chat at https://gitter.im/hugo-creative-portfolio-theme/Lobby](https://badges.gitter.im/hugo-creative-portfolio-theme/Lobby.svg)](https://gitter.im/hugo-creative-portfolio-theme/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Buy Kishan B a coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-blue.svg)](https://www.paypal.me/kishansh/5)
+
+[![Buy Kishan B a coffee](https://img.shields.io/badge/%E2%98%95-Buy%20Kishan%20B%20a%20coffee-blue.svg)](https://www.paypal.me/kishansh/5)
 
 Creative portfolio is a clean and elegant template mainly made for designers and creatives but can be easily transformed into a generic website.
-
-This Hugo theme was ported from [Bootstrapious](https://bootstrapious.com/p/creative-portfolio) for training and fun. It has a very nice landing page, a comments system by Disqus, contact forms by Formspree and Google Analytics.
-
-![screenshot](https://raw.githubusercontent.com/kishaningithub/hugo-creative-portfolio-theme/master/images/screenshot.png)
 
 # georgelangham.me.github.io
 
@@ -68,4 +65,4 @@ This port is released under the MIT License. Check the [original theme license](
 
 ## Thanks
 
-Thanks to [Steve Francia](https://github.com/spf13) for creating Hugo and the awesome community around the project. And also thanks to [Bootstrapious](http://bootstrapious.com/) for creating this awesome theme.
+Thanks to [Steve Francia](https://github.com/spf13) for creating Hugo and the awesome community around the project. And also thanks to [Bootstrapious](http://bootstrapious.com/) for creating this awesome theme and [Kishan B](https://github.com/kishaningithub) for Porting it to Hugo.
