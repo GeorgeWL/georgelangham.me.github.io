@@ -6,9 +6,9 @@ Creative portfolio is a clean and elegant template mainly made for designers and
 
 # georgelangham.me.github.io
 
-Hugo Static Site, made with Hugo(https://gohugo.io) and Automatically Deployed using https://Forestry.io
+ using 
 
-This site is a Static Generated Site, made with Hugo and Automatically Deployed from a git repository using Forestry.io
+This site is a Static Generated Site, made with [Hugo](https://gohugo.io) and Automatically Deployed from a git repository using [Forestry.io](//Forestry.io)
 
 The power of Hugo is that through the use of layout files, every div can easily be created or edited through HTML/CSS/JavaScript and then Injected into place by the program.
 
