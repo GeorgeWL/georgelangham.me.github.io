@@ -13,7 +13,7 @@ If you want to contact me, use my [Contact](/contact/) page or click on to my so
 
 #### Github Contributions
 
-<img class="img-responsive img" src="http://ghchart.rshah.org/GeorgeWL" title="My Github Chart" alt="My Github Chart">
+[![My Github Chart](http://ghchart.rshah.org/GeorgeWL "My Github Contributions")](https://github.com/georgewl)
 
 ## Education
 
