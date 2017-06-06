@@ -1,7 +1,5 @@
 # Based on the Creative portfolio theme for hugo
 
-[![Join the chat at https://gitter.im/hugo-creative-portfolio-theme/Lobby](https://badges.gitter.im/hugo-creative-portfolio-theme/Lobby.svg)](https://gitter.im/hugo-creative-portfolio-theme/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 [![Buy Kishan B a coffee](https://img.shields.io/badge/%E2%98%95-Buy%20Kishan%20B%20a%20coffee-blue.svg)](https://www.paypal.me/kishansh/5)
 
 Creative portfolio is a clean and elegant template mainly made for designers and creatives but can be easily transformed into a generic website.
