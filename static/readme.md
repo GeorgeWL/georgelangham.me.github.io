@@ -1,6 +1,6 @@
 # georgelangham.me.github.io
 
-Hugo Static Site, made with Hugo(https://gohugo.io) and Automatically Deployed using https://Forestry.io
+Hugo Static Site, made with [Hugo](https://gohugo.io) and Automatically Deployed using https://Forestry.io
 
 This site is a Static Generated Site, made with Hugo and Automatically Deployed from a git repository using Forestry.io
 
@@ -30,22 +30,22 @@ deployed via opening the [/Layouts/](https://github.com/GeorgeWL/georgelangham.m
 
 editing the [/partials/](https://github.com/GeorgeWL/georgelangham.me.github.io/tree/dev/layouts/partials), [/widgets](https://github.com/GeorgeWL/georgelangham.me.github.io/tree/dev/layouts/partials/widgets), /shortcodes or any of the other named templates.   Or potentially creating a new template file.
 
-opening command prompt inside of the / folder
+opening command prompt inside of the `/` folder
 
-running the command hugo --theme [Theme-Name] once
+running the command `hugo --theme [Theme-Name]` once
 
-syncing the changes back to the dev branch.
+syncing the changes back to the `dev` branch.
 
-Forestry automatically publishes the new contents of the /static folder onto the Master branch
-
-e.g.
-
-about/single.html for editing the single page template of about.
+Forestry automatically publishes the new contents of the `/static` folder onto the Master branch
 
 e.g.
 
-partials/sidebar.html for editing just the sidebar.
+`about/single.html` for editing the single page template of about.
 
 e.g.
 
-portfolio/list for editing the grouped page template of Portfolio.
+`partials/sidebar.html` for editing just the sidebar.
+
+e.g.
+
+`portfolio/list` for editing the grouped page template of Portfolio.
