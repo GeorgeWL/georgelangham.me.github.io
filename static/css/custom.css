@@ -1,4 +1,8 @@
 /* your styles go here */
+a{
+    text-decoration:underline;
+}
+
 @media screen and (min-width: 992px){
     .sidebar-content {
         position: fixed;
