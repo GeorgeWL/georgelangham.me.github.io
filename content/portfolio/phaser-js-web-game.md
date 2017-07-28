@@ -7,7 +7,7 @@ type = "Game, Experiment, Self-Learning, JavaScript"
 weight = ""
 
 +++
-Created in my spare time as a small little project, a HTML5 and JavaScript game. Due to the assets being run through HTML5 rather than older ethods such as Flash or Unity Web Player the game is of a rather small size and can run on any device with a screen larger than 480px by 640px in resolution.
+Created in my spare time as a small little project, a HTML5 and JavaScript game. Due to the assets being run through HTML5 rather than older methods such as Flash or Unity Web Player the game is of a rather small size and can run on any device with a screen larger than 480px by 640px in resolution.
 
 All assets are loaded and controlled through JavaScript with the Phaser.js library leveraged to handle physics of the assets.
 
