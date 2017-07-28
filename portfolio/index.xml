@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 George W Langham</copyright>
-    <lastBuildDate>Fri, 26 May 2017 12:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 12:44:11 +0000</lastBuildDate>
     
 	<atom:link href="http://georgelangham.me/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Phaser.js Web Game</title>
+      <link>http://georgelangham.me/portfolio/phaser-js-web-game/</link>
+      <pubDate>Fri, 28 Jul 2017 12:44:11 +0000</pubDate>
+      
+      <guid>http://georgelangham.me/portfolio/phaser-js-web-game/</guid>
+      <description>Created in my spare time as a small little project, a HTML5 and JavaScript game. Due to the assets being run through HTML5 rather than older ethods such as Flash or Unity Web Player the game is of a rather small size and can run on any device with a screen larger than 480px by 640px in resolution.
+All assets are loaded and controlled through JavaScript with the Phaser.js library leveraged to handle physics of the assets.</description>
+    </item>
     
     <item>
       <title>Georgelangham.me</title>
