@@ -7,8 +7,6 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-  blog:
-    default_front_matter_template: blog
   portfolio:
     default_front_matter_template: portfolio
 version: 0.20.2
