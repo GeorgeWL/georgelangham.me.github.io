@@ -19,44 +19,44 @@ If you want to contact me, use my [Contact](/contact/) page or click on to my so
 
 ### BSc Web Systems Design - Sheffield Hallam
 
-Currently awaiting results, **Predicted Grade: 2:1**
+ **Grade: 2:1**
 
 This is one of the few specialist courses in the UK focused on Web Technologies. Key Areas of Study:
 
-*   HTML5, CSS3
-*   JavaScript, PHP and ASP web scripting
-*   user interface design
-*   programming
-*   web-based systems architecture
-*   web security
-*   creative and critical thinking.
-*   computer architecture
-*   design and development of database systems
-*   computer networking
-*   project management
-*   web frameworks including HTML5UP and Bootstrap
-*   journal and thesis writing
-*   information management (second year elective)
-*   mobile application development (final year elective)
-*   cloud databases and cloud computing (final year elective)
+* HTML5, CSS3
+* JavaScript, PHP and ASP web scripting
+* user interface design
+* programming
+* web-based systems architecture
+* web security
+* creative and critical thinking.
+* computer architecture
+* design and development of database systems
+* computer networking
+* project management
+* web frameworks including HTML5UP and Bootstrap
+* journal and thesis writing
+* information management (second year elective)
+* mobile application development (final year elective)
+* cloud databases and cloud computing (final year elective)
 
 ### BTEC National Diploma Level 3 - Mid-Cheshire College
 
 This course is a strong foundation to build onto with University education or Apprenticeships. Course included the following modules:
 
-*   Communication and Employability Skills for IT
-*   Computer Systems
-*   Information Systems
-*   Project Planning with IT
-*   Database Design
-*   Spreadsheet Modelling
-*   Customisation of Web Pages
-*   Software Design and Development
-*   Human Computer Interaction
-*   Object Oriented Programming
-*   Computer Networks
-*   Website Production
-*   Event Driven Programming
+* Communication and Employability Skills for IT
+* Computer Systems
+* Information Systems
+* Project Planning with IT
+* Database Design
+* Spreadsheet Modelling
+* Customisation of Web Pages
+* Software Design and Development
+* Human Computer Interaction
+* Object Oriented Programming
+* Computer Networks
+* Website Production
+* Event Driven Programming
 
 ### GCSEs A to C - Verdin High School
 
