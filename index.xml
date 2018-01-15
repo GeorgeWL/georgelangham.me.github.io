@@ -84,16 +84,5 @@
 All assets are loaded and controlled through JavaScript with the Phaser.js library leveraged to handle physics of the assets.</description>
     </item>
     
-    <item>
-      <title>Accesibility in Tech</title>
-      <link>http://georgelangham.me/blog/accessible/</link>
-      <pubDate>Tue, 23 May 2017 17:01:27 +0100</pubDate>
-      
-      <guid>http://georgelangham.me/blog/accessible/</guid>
-      <description>&lt;p&gt;Just attended on the Wednesday (01/02/17) a Great lecture on Accessible Mobile Technology hosted at Sheffield Hallam University.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

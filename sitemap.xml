@@ -32,11 +32,6 @@
   </url>
   
   <url>
-    <loc>http://georgelangham.me/blog/accessible/</loc>
-    <lastmod>2017-05-23T17:01:27+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://georgelangham.me/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -44,12 +39,6 @@
   <url>
     <loc>http://georgelangham.me/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://georgelangham.me/blog/</loc>
-    <lastmod>2017-05-23T17:01:27+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -71,18 +60,6 @@
   
   <url>
     <loc>http://georgelangham.me/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://georgelangham.me/tags/test/</loc>
-    <lastmod>2017-05-23T17:01:27+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://georgelangham.me/categories/test/</loc>
-    <lastmod>2017-05-23T17:01:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
