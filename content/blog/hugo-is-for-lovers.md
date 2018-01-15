@@ -4,6 +4,7 @@ banner = "/img/pic02.jpg"
 categories = []
 date = "2015-08-03T13:39:46+02:00"
 description = ""
+draft = true
 images = [""]
 tags = []
 title = "Hugo is for lovers"
