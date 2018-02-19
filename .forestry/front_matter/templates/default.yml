@@ -1,11 +1,6 @@
 ---
 hide_body: false
 fields:
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
 - name: image
   label: Image
   type: file
@@ -21,6 +16,11 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
 - name: type
   label: Type
   type: text
@@ -31,3 +31,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: datetime
+  config:
+    date_format: DD/MM/YYYY
+- type: datetime
+  name: date
+  label: date
