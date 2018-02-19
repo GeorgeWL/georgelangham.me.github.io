@@ -84,5 +84,17 @@ All assets are loaded and controlled through JavaScript with the Phaser.js libra
 &lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Trying out WakaTime</title>
+      <link>http://georgelangham.me/portfolio/trying-out-wakatime/</link>
+      <pubDate>Mon, 19 Feb 2018 20:57:01 +0000</pubDate>
+      
+      <guid>http://georgelangham.me/portfolio/trying-out-wakatime/</guid>
+      <description>WakaTime is a Git Integration which automatically tracks your saves and git commits.
+Seems to do so in a rather naive way, not knowing the difference between code typed and text which has been pasted. But for most purposes that&amp;rsquo;s not exactly a big deal anyhow.
+The below embed should auto-update as my activities change.
+ </description>
+    </item>
+    
   </channel>
 </rss>

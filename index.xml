@@ -75,6 +75,18 @@
     </item>
     
     <item>
+      <title>Trying out WakaTime</title>
+      <link>http://georgelangham.me/portfolio/trying-out-wakatime/</link>
+      <pubDate>Mon, 19 Feb 2018 20:57:01 +0000</pubDate>
+      
+      <guid>http://georgelangham.me/portfolio/trying-out-wakatime/</guid>
+      <description>WakaTime is a Git Integration which automatically tracks your saves and git commits.
+Seems to do so in a rather naive way, not knowing the difference between code typed and text which has been pasted. But for most purposes that&amp;rsquo;s not exactly a big deal anyhow.
+The below embed should auto-update as my activities change.
+ </description>
+    </item>
+    
+    <item>
       <title>Phaser.js Web Game</title>
       <link>http://georgelangham.me/portfolio/phaser-js-web-game/</link>
       <pubDate>Fri, 28 Jul 2017 12:44:11 +0000</pubDate>
