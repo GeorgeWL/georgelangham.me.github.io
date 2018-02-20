@@ -1,4 +1,6 @@
 # georgelangham.me.github.io
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FGeorgeWL%2Fgeorgelangham.me.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FGeorgeWL%2Fgeorgelangham.me.github.io?ref=badge_shield)
+
 
 Hugo Static Site, made with [Hugo](https://gohugo.io) and Automatically Deployed using https://Forestry.io
 
@@ -49,3 +51,7 @@ e.g.
 e.g.
 
 `portfolio/list` for editing the grouped page template of Portfolio.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FGeorgeWL%2Fgeorgelangham.me.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FGeorgeWL%2Fgeorgelangham.me.github.io?ref=badge_large)
