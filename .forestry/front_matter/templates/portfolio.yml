@@ -1,38 +1,39 @@
 ---
 hide_body: false
+is_partial: false
 fields:
 - name: image
   label: Image
-  type: file
+  type: 
   hidden: false
   default: ''
 - name: showonlyimage
   label: Showonlyimage
-  type: boolean
+  type: 
   hidden: false
   default: false
 - name: date
   label: Date
-  type: datetime
+  type: 
   hidden: false
   default: ''
 - name: title
   label: Title
-  type: text
+  type: 
   hidden: false
   default: ''
 - name: weight
   label: Weight
-  type: text
+  type: 
   hidden: false
   default: ''
 - name: type
   label: Type
-  type: text
+  type: 
   hidden: false
   default: ''
 - name: draft
   label: Draft
-  type: boolean
+  type: 
   hidden: false
   default: true
