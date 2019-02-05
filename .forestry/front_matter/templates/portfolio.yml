@@ -39,11 +39,11 @@ fields:
   hidden: false
   default: true
 pages:
-- content/portfolio/phaser-js-web-game.md
-- content/portfolio/climbing-poster.md
+- content/portfolio/trying-out-wakatime.md
+- content/portfolio/work3.md
 - content/portfolio/georgelangham-me.md
 - content/portfolio/data-dashboard-accessible.md
-- content/portfolio/work3.md
-- content/portfolio/mtmllp-co-uk-drupal.md
+- content/portfolio/phaser-js-web-game.md
+- content/portfolio/climbing-poster.md
 - content/portfolio/jquery-ui-project.md
-- content/portfolio/trying-out-wakatime.md
+- content/portfolio/mtmllp-co-uk-drupal.md
