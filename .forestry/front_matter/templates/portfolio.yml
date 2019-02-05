@@ -1,39 +1,49 @@
 ---
+label: portfolio
 hide_body: false
 is_partial: false
 fields:
 - name: image
   label: Image
-  type: 
+  type: file
   hidden: false
   default: ''
 - name: showonlyimage
   label: Showonlyimage
-  type: 
+  type: boolean
   hidden: false
   default: false
 - name: date
   label: Date
-  type: 
+  type: datetime
   hidden: false
   default: ''
 - name: title
   label: Title
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: weight
   label: Weight
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: type
   label: Type
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: draft
   label: Draft
-  type: 
+  type: boolean
   hidden: false
   default: true
+pages:
+- content/portfolio/phaser-js-web-game.md
+- content/portfolio/climbing-poster.md
+- content/portfolio/georgelangham-me.md
+- content/portfolio/data-dashboard-accessible.md
+- content/portfolio/work3.md
+- content/portfolio/mtmllp-co-uk-drupal.md
+- content/portfolio/jquery-ui-project.md
+- content/portfolio/trying-out-wakatime.md
