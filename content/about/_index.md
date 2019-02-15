@@ -5,7 +5,7 @@ title = "About me"
 +++
 I’m a **Developer** for **Web** and **Mobile**; creating Websites, Web Applications, and Mobile Applications.
 
-For the last few years I’ve been working with prestigious companies and I’m currently working for [Pixel Inspiration Ltd](https://pixelsinspiration.co.uk), a Digital Signage company, whilst finishing my [BSc Web Systems Design and Development](http://www.justcourses.com/Courses/Sheffield_Hallam_University/Web_Systems_Design/246899-0-0.html) degree at [Sheffield Hallam University](https://shu.ac.uk).
+For the last few years I’ve been working with prestigious companies and I’m currently working for [Pixel Inspiration Ltd](https://pixelsinspiration.co.uk), a Digital Signage company, who I joined shortly after finishing my [BSc Web Systems Design and Development](http://www.justcourses.com/Courses/Sheffield_Hallam_University/Web_Systems_Design/246899-0-0.html) degree at [Sheffield Hallam University](https://shu.ac.uk).
 
 I’m currently based in [Salford](https://www.google.co.uk/maps/place/Salford+District/), a region of Greater Manchester in the United Kingdom.
 
@@ -19,7 +19,7 @@ If you want to contact me, use my [Contact](/contact/) page or click on to my so
 
 ### BSc Web Systems Design - Sheffield Hallam
 
-**Grade: 2:1**
+**Grade: 2:**
 
 This is one of the few specialist courses in the UK focused on Web Technologies. Key Areas of Study:
 
